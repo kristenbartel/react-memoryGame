@@ -9,4 +9,4 @@ class MemoryCard extends React.Component {
     }
 }
 
-export default MemoryCard;
+export default MemoryCard; 
