@@ -2,6 +2,7 @@ import './App.css';
 import MemoryCard from './components/MemoryCard';
 
 function App() {
+  constructor()
   return (
     <div className="App">
       <header className="App-header">
