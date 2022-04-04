@@ -24,6 +24,7 @@ class App extends React.Component {
     super();
     this.state = {deck: generateDeck(), pickedCards: []};
   }
+  
   pickCard(cardIndex) {
     if (this.state.deck[cardIndex].isFlipped) {
       return
